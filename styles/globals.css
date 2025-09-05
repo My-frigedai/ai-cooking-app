@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Orbitron', sans-serif;
+  background: black;
+  color: #00ffe0;
+  overflow-x: hidden;
+}
+
+h1, h2, h3 {
+  animation: glow 2s infinite alternate;
+}

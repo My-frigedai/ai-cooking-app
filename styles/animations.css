@@ -1,0 +1,18 @@
+/* フェードイン */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* グロー効果（光る） */
+@keyframes glow {
+  0% { text-shadow: 0 0 5px #00f, 0 0 10px #0ff; }
+  50% { text-shadow: 0 0 20px #0ff, 0 0 40px #00f; }
+  100% { text-shadow: 0 0 5px #00f, 0 0 10px #0ff; }
+}
+
+/* スライドイン（左から） */
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-100px); }
+  to { opacity: 1; transform: translateX(0); }
+}
