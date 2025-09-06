@@ -1,0 +1,25 @@
+.app-description {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(to bottom, #000030 0%, #000050 100%);
+}
+
+.description-block {
+  margin: 40px auto;
+  max-width: 800px;
+  padding: 20px;
+  background: rgba(0, 50, 100, 0.3);
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 200, 255, 0.2);
+}
+
+.description-block h3 {
+  font-size: 1.5rem;
+  color: #b0f0ff;
+}
+
+.description-block p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #d0f8ff;
+}
