@@ -1,4 +1,4 @@
-import "../styles/globals.css";
+﻿import "../styles/globals.css";
 import "../styles/animations.css";
 import Hero from "../components/Hero";
 import Features from "../components/Features";
