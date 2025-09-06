@@ -7,5 +7,5 @@ body {
 }
 
 h1, h2, h3 {
-  animation: glow 2s infinite alternate;
+  text-shadow: 0 0 10px #00f, 0 0 20px #0ff;
 }
