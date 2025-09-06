@@ -1,7 +1,10 @@
-﻿// pages/index.js
-import Navbar from "../components/Navbar";
-import GlowingButton from "../components/GlowingButton";
+// pages/index.js
+import "../styles/globals.css";
+import "../styles/animations.css";
+import Hero from "../components/Hero";
+import Features from "../components/Features";
 import Footer from "../components/Footer";
+import Background from "../components/Background";
 
 export default function Home() {
   return (
