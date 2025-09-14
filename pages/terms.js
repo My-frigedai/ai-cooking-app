@@ -18,7 +18,7 @@ export default function Terms() {
   <div class="terms-content">
     <p><strong>販売事業者</strong><br />Fridge AI</p>
     <p><strong>運営責任者</strong><br />奏空</p>
-    <p><strong>所在地</strong><br />宮崎県宮崎市大字島之内75693</p>
+    <p><strong>所在地</strong><br />宮崎県宮崎市大字島之内7569-3</p>
     <p><strong>お問い合わせ先</strong><br />メール:9collie-laxest@icloud.com</p>
     <p><strong>販売価格</strong><br />各商品ページに記載の価格に準じます。</p>
     <p><strong>商品代金以外に必要な料金</strong><br />特になし（通信費等はお客様負担）。</p>
