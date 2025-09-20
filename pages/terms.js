@@ -17,7 +17,7 @@ export default function Terms() {
   <h1>特定商取引法に基づく表記</h1>
   <div class="terms-content">
     <p><strong>販売事業者</strong><br />Fridge AI</p>
-    <p><strong>運営責任者</strong><br />奏空</p>
+    <p><strong>運営責任者</strong><br />築地　奏空</p>
     <p><strong>所在地</strong><br />宮崎県宮崎市大字島之内7569-3</p>
     <p><strong>お問い合わせ先</strong><br />メール:9collie-laxest@icloud.com</p>
     <p><strong>販売価格</strong><br />各商品ページに記載の価格に準じます。</p>
